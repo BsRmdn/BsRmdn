@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   I'm Bastiar Ramadan from Indonesia
   
   - 🔭 I’m working as Web Developer
-  - 📚 I'm currently learning Unity
+  - 📚 I'm currently learning ReactJs
   - 📫 How to reach me bastiarramadan76@gmail.com
 <br>
 
@@ -75,6 +75,10 @@ Here are some ideas to get you started:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   </a>
   <img width="10" />
+  <a href="https://www.w3schools.com/js">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="javascript logo"  />
+  </a>
+  <img width="10" />
   <a href="https://www.dart.dev">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   </a>
@@ -97,7 +101,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=bsrmdn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />   
+  <img src="https://github-readme-stats.vercel.app/api?username=bsrmdn&theme=dracula" height="150" alt="stats graph"  />   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bsrmdn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=bsrmdn&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
