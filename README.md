@@ -64,7 +64,7 @@ Here are some ideas to get you started:
   </a>
   <img width="10" />
   <a href="https://www.laravel.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="40" alt="laravel logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   </a>
   <img width="10" />
   <a href="https://www.mysql.com">
